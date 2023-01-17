@@ -11,4 +11,4 @@
       - 他要主导 BeanDefinition的生成，把BeanDefinition传递给BeanFactory生产bean
         - 传递=>(注册，BeanDefinition注册，BeanDefinitionRegister，方法：registerBeanDefinition)
       - 给BeanFactory生成bean
-2. 
+2. 开始自己仿造源码
